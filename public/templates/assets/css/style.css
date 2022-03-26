@@ -8338,10 +8338,15 @@ table.shop_attributes tbody {
     padding-left: 40px;
 }
 
+.header-nav-section .menu-nav li {
+    display: inline-block;
+    float: left;
+    padding: 13px 40px 11px !important;
+}
+
 .text-red-600 {
     color: red;
 }
-
 
 .pl-4,
 .px-4 {
